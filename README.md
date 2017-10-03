@@ -1,6 +1,9 @@
 # clampfit_trace_selector
 Function to automatically generate a list of traces for analysis in Clampfit (part of the Molecular Devices PClamp suite for electrophysiology data acquisition and analysis). Default is set up for averaging or basic statistics of raw paired pulse ratio traces presented in non-sequential order. 
 
+### Blog Entry
+https://n-coding.net/2017/10/03/clampfit-trace-selector/
+
 ### The three variables that may need to be changed are:
 - *start* -> this is the first sweep you want to analyze
 - *intervals* -> this is the number of interstimulus intervals you measured
